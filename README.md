@@ -6,7 +6,6 @@
 [![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://github.com/melharfi/Carta_V1.4.205)
 [![GitHub Release](https://img.shields.io/github/v/release/melharfi/Carta_V1.4.205)](https://github.com/melharfi/Carta_V1.4.205/releases) 
 [![PayPal](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VN92ND2CDMX92)
-[![GitHub language count](https://img.shields.io/github/languages/count/melharfi/Carta_V1.4.205?color=red)](1)
 
 Jeu de carte v1 en VB6
 
