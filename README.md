@@ -1,6 +1,7 @@
 # Carta_V1.4.205
 
 [![PayPal](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VN92ND2CDMX92)
+![GitHub Release Date](https://img.shields.io/github/release-date/melharfi/Carta_V1.4.205?color=Green)
 
 Jeu de carte v1 en VB6
 
